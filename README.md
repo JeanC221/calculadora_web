@@ -12,7 +12,7 @@ Calculadora web con HTML, CSS y JavaScript.
 
 ## Autor
 
-- [@Jean Herran](https://github.com/Jeanc221)
+- [@Jean Carlo Herran](https://github.com/Jeanc221)
 
 
 
